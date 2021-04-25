@@ -7,6 +7,11 @@ This simple command line tool will remove a [digital code signature](https://en.
 
 It came out as a result of the blog post, "[Coding Production-Style Application - C++ application to remove digital signature from a binary file. Coding it from start-to-finish, with code safety tips, bug fixes and test fuzzing](https://dennisbabkin.com/blog/?t=coding-production-style-cpp-app-to-remove-digital-signature-from-binary-file)". Check it if you're curious how I made this app.
 
+### Screenshot
+
+![scrsht_sigrem_01](https://user-images.githubusercontent.com/25473659/115978721-5bafd880-a536-11eb-8ea8-c6a6868da766.png)
+
+
 ### Release Build
 
 If you don't want to build this app yourself, you can download the latest [release binaries here](https://dennisbabkin.com/sigremover/).
