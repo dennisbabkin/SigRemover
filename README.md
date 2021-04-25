@@ -9,7 +9,7 @@ It came out as a result of the blog post, "[Coding Production-Style Application 
 
 ### Release Build
 
-If you don't want to build this app yourself, you can download the latest [release build here](https://dennisbabkin.com/sigremover/).
+If you don't want to build this app yourself, you can download the latest [release binaries here](https://dennisbabkin.com/sigremover/).
 
 ### Build Instructions
 
